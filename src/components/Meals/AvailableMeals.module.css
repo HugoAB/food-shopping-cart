@@ -1,0 +1,9 @@
+.meals {
+  width: 1000px;
+	max-width: 90%;
+	margin: 30px auto 0 auto;
+}
+
+ul {
+	list-style: none;
+}

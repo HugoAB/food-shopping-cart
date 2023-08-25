@@ -1,0 +1,19 @@
+.info {
+  background-color: #3f3f3f;
+	border-radius: 10px;
+	color: #FFF;
+	width: 650px;
+	max-width: 90%;
+	min-height: 230px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 0 auto;
+	margin-top: -150px;
+	padding: 25px;
+	z-index: 1000;
+	position: relative;
+}
+
+.info p {
+	margin-top: 20px;
+}

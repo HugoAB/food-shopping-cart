@@ -1,0 +1,47 @@
+.item {
+  border-bottom: 2px solid gray;
+	padding: 15px 0;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.item .details {
+	display: flex;
+	align-items: center;
+	gap: 35px;
+}
+
+.name {
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+.price {
+	color: #B9770E;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+.amount {
+	border: 1px solid lightgray;
+	border-radius: 5px;
+	padding: 6px 10px;
+}
+
+.actions button {
+	background-color: #FFF;
+	border: 1px solid #B9770E;
+	color: #B9770E;
+	border-radius: 5px;
+	font-size: 18px;
+	padding: 4px 12px;
+	margin-left: 10px;
+}
+
+.actions button:hover {
+	cursor: pointer;
+	background-color: #B9770E;
+	color: #FFF;
+}
