@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food-shopping-cart/static/css/main.5ad72f74.css",
+    "main.js": "/food-shopping-cart/static/js/main.387b5f07.js",
+    "static/media/fish.jpg": "/food-shopping-cart/static/media/fish.399a482cc09c8d029e3e.jpg",
+    "index.html": "/food-shopping-cart/index.html",
+    "main.5ad72f74.css.map": "/food-shopping-cart/static/css/main.5ad72f74.css.map",
+    "main.387b5f07.js.map": "/food-shopping-cart/static/js/main.387b5f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad72f74.css",
+    "static/js/main.387b5f07.js"
+  ]
+}
